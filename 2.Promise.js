@@ -30,12 +30,9 @@ const myPromise = new Promise((resolve, reject)=>{
    
 });
 
-
 // ekhon ei promise take comsume korbo 
 // mane ami je promise korci asole kono ki data pelam ar data ple kon dhoroner data pelam r error hole kon dhoroner error holo seta asole dekhbo
 //etai consume kora
-
-
 
 // multiple promise 
 
@@ -51,9 +48,6 @@ console.log(userData)
 Promise.all(userData).then(res=>{
     console.log(res)
 })
-
-
-
 
 myPromise
 .then(res=>console.log("found in then",res))
