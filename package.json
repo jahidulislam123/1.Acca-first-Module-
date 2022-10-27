@@ -1,0 +1,22 @@
+{
+  "name": "first-class-syncronas-and-asyncronas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.Promise.js",
+
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahidulislam123/1.Acca-first-Module-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahidulislam123/1.Acca-first-Module-/issues"
+  },
+  "homepage": "https://github.com/jahidulislam123/1.Acca-first-Module-#readme"
+}
